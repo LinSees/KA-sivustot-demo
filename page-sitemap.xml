@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on November 12, 2024 at 1:52 pm by All in One SEO v4.7.3.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on November 14, 2024 at 10:02 am by All in One SEO v4.7.3.1 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="./default-sitemap.xsl?sitemap=page"?>
 <urlset
@@ -8,10 +8,61 @@
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[./yritys/]]>/index.html</loc>
-		<lastmod><![CDATA[2024-11-12T12:24:56+00:00]]></lastmod>
+		<loc><![CDATA[./ka-paras-palvelu/]]>/index.html</loc>
+		<lastmod><![CDATA[2024-11-14T10:01:21+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/kustannustieto_punainen@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/resurssi-punainen@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/analyysi_punainen@3x-1.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/KA-paras-palvelu-tietokone_5.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./referenssit/]]>/index.html</loc>
+		<lastmod><![CDATA[2024-11-14T09:59:18+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://www.valio.fi/cdn-cgi/image/format=auto/https://cdn-wp.valio.fi/valio-wp-network/2023/09/valio-international-logo-header-400x281.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/varha_logo.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/Kuva3.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/satakunnan_hyvinvointialue_logo.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://pohde.fi/wp-content/uploads/2022/10/Pohde_logo-horizontal.svg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://www.hyvaep.fi/uploads/2022/09/hyvaep.svg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./yritys/]]>/index.html</loc>
+		<lastmod><![CDATA[2024-11-14T09:58:19+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/11/business-8676516_1922.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/11/forest-1866837_1280.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/11/KA-puhelin-4.jpg]]></image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[./yhteystiedot/]]>/index.html</loc>
@@ -35,24 +86,6 @@
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[./wp-content/uploads/2024/10/osoite_punainen@3x.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[./ka-paras-palvelu/]]>/index.html</loc>
-		<lastmod><![CDATA[2024-11-12T07:09:03+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/kustannustieto_punainen@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/resurssi-punainen@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/analyysi_punainen@3x-1.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/KA-paras-palvelu-tietokone_5.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -110,30 +143,6 @@
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[./wp-content/uploads/2024/10/auditointi_valkoinen@3x.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[./referenssit/]]>/index.html</loc>
-		<lastmod><![CDATA[2024-10-30T15:20:39+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[https://www.valio.fi/cdn-cgi/image/format=auto/https://cdn-wp.valio.fi/valio-wp-network/2023/09/valio-international-logo-header-400x281.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/varha_logo.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Kuva3.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/satakunnan_hyvinvointialue_logo.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://pohde.fi/wp-content/uploads/2022/10/Pohde_logo-horizontal.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://www.hyvaep.fi/uploads/2022/09/hyvaep.svg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
