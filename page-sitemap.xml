@@ -1,173 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on November 15, 2024 at 11:10 am by All in One SEO v4.7.3.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on November 15, 2024 at 1:13 pm by All in One SEO v4.7.3.1 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="./default-sitemap.xsl?sitemap=page"?>
+<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=page"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[./]]>/index.html</loc>
+		<loc><![CDATA[/]]></loc>
 		<lastmod><![CDATA[2024-11-15T11:01:24+00:00]]></lastmod>
 		<changefreq><![CDATA[always]]></changefreq>
 		<priority><![CDATA[1]]></priority>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/nuoli_punainen.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/nuoli_punainen.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/rakennettu_yritys_punainen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/rakennettu_yritys_punainen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/puolueeton_yritys_punainen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/puolueeton_yritys_punainen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/AAA_luottoluokka_punainen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/AAA_luottoluokka_punainen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/kello_punainen.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/kello_punainen.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/rakennus_punainen.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/rakennus_punainen.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/nuoli_saasto_punainen.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/nuoli_saasto_punainen.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/check_punainen@3x-1.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/check_punainen@3x-1.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Kustannustehokkuus_punainen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/Kustannustehokkuus_punainen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Vastuullisuus_punainen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/Vastuullisuus_punainen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Lapinakyvyys_punainen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/Lapinakyvyys_punainen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/pyramidi4.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/pyramidi4.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Tavoite_harmaa@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/Tavoite_harmaa@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Analyysi_harmaa@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/Analyysi_harmaa@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/prosessitehos_harmaa@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/prosessitehos_harmaa@3x.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./yhteystiedot/]]>/index.html</loc>
+		<loc><![CDATA[/yhteystiedot/]]></loc>
 		<lastmod><![CDATA[2024-11-15T10:37:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Janne-profiili_2-1.jpg]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/Janne-profiili_2-1.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/email_punainen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/email_punainen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/puhelinnumero_punainen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/puhelinnumero_punainen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/1715330409453.jpg]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/1715330409453.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/1703164056989.jpg]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/1703164056989.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/osoite_punainen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/osoite_punainen@3x.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./palvelut/]]>/index.html</loc>
+		<loc><![CDATA[/palvelut/]]></loc>
 		<lastmod><![CDATA[2024-11-15T10:36:55+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/kilpailu_punainen_aariviivat@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/kilpailu_punainen_aariviivat@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/nuoli_punainen.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/nuoli_punainen.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/target_punainen_viiva@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/target_punainen_viiva@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/omistajuus_punainen_viiva@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/omistajuus_punainen_viiva@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/kategoria_punainen_viiva@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/kategoria_punainen_viiva@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/toteutus_punainen_viiva@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/toteutus_punainen_viiva@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Tietokone_punainen_aariviivat@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/Tietokone_punainen_aariviivat@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/lentokone_valkoinen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/lentokone_valkoinen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Tulostin_valkoinen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/Tulostin_valkoinen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/kiinteisto_valkoinen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/kiinteisto_valkoinen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/11/Varasto_valkoinen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/11/Varasto_valkoinen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/rekka_valkoinen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/rekka_valkoinen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/varaosat_valkoinen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/varaosat_valkoinen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/puhelin_valkoinen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/puhelin_valkoinen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Asiakaspalvelu@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/Asiakaspalvelu@3x.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./yritys/]]>/index.html</loc>
+		<loc><![CDATA[/yritys/]]></loc>
 		<lastmod><![CDATA[2024-11-14T16:45:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/11/business-8676516_1922.jpg]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/11/business-8676516_1922.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/11/forest-1866837_1280.jpg]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/11/forest-1866837_1280.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/11/KA-puhelin-4.jpg]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/11/KA-puhelin-4.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./ka-paras-palvelu/]]>/index.html</loc>
+		<loc><![CDATA[/ka-paras-palvelu/]]></loc>
 		<lastmod><![CDATA[2024-11-14T10:01:21+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/kustannustieto_punainen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/kustannustieto_punainen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/resurssi-punainen@3x.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/resurssi-punainen@3x.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/analyysi_punainen@3x-1.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/analyysi_punainen@3x-1.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/KA-paras-palvelu-tietokone_5.jpg]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/KA-paras-palvelu-tietokone_5.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./referenssit/]]>/index.html</loc>
+		<loc><![CDATA[/referenssit/]]></loc>
 		<lastmod><![CDATA[2024-11-14T09:59:18+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -175,13 +175,13 @@
 			<image:loc><![CDATA[https://www.valio.fi/cdn-cgi/image/format=auto/https://cdn-wp.valio.fi/valio-wp-network/2023/09/valio-international-logo-header-400x281.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/varha_logo.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/varha_logo.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Kuva3.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/Kuva3.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/satakunnan_hyvinvointialue_logo.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/satakunnan_hyvinvointialue_logo.png]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://pohde.fi/wp-content/uploads/2022/10/Pohde_logo-horizontal.svg]]></image:loc>
