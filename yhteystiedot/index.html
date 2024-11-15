@@ -20,12 +20,12 @@
 		<meta property="og:image:width" content="963">
 		<meta property="og:image:height" content="145">
 		<meta property="article:published_time" content="2024-10-24T09:45:35+00:00">
-		<meta property="article:modified_time" content="2024-11-12T07:10:13+00:00">
+		<meta property="article:modified_time" content="2024-11-15T10:37:35+00:00">
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:title" content="KA Kustannus Analyysi Oy - Ota yhteyttä ja säästä yrityksesi kustannuksissa">
 		<meta name="twitter:description" content="KA Kustannus Analyysi Oy asiantuntijat ovat valmiina auttamaan sinua, joten ota yhteyttä ja aloitetaan yhteistyö, joka tuo konkreettisia tuloksia.">
 		<meta name="twitter:image" content="./../wp-content/uploads/2024/10/Logo_RGB_2@3x.png">
-		<script type="application/ld+json" class="aioseo-schema">{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":".\/\/yhteystiedot\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":".\/\/#listItem","position":1,"name":"Home","item":".\/\/","nextItem":".\/\/yhteystiedot\/#listItem"},{"@type":"ListItem","@id":".\/\/yhteystiedot\/#listItem","position":2,"name":"Ota yhteyttä ja säästä yrityksesi kustannuksissa","previousItem":".\/\/#listItem"}]},{"@type":"Organization","@id":".\/\/#organization","name":"KA Kustannus Analyysi Oy","description":"KA Kustannus Analyysi Oy on yksityinen puolueeton epäsuoriin hankintoihin erikoistunut yritys. Autamme hahmottamaan yritysten hankinnan nykytilan ja tunnistamaan isoimmat säästöpotentiaalit ja kehityskohteet.","url":".\/\/","logo":{"@type":"ImageObject","url":".\/\/wp-content\/uploads\/2024\/10\/Logo_RGB_2@3x.png","@id":".\/\/yhteystiedot\/#organizationLogo","width":963,"height":145},"image":{"@id":".\/\/yhteystiedot\/#organizationLogo"},"sameAs":["https:\/\/www.linkedin.com\/company\/ka-kustannus-analyysi-oy\/"]},{"@type":"WebPage","@id":".\/\/yhteystiedot\/#webpage","url":".\/\/yhteystiedot\/","name":"KA Kustannus Analyysi Oy - Ota yhteyttä ja säästä yrityksesi kustannuksissa","description":"KA Kustannus Analyysi Oy asiantuntijat ovat valmiina auttamaan sinua, joten ota yhteyttä ja aloitetaan yhteistyö, joka tuo konkreettisia tuloksia.","inLanguage":"en-US","isPartOf":{"@id":".\/\/#website"},"breadcrumb":{"@id":".\/\/yhteystiedot\/#breadcrumblist"},"datePublished":"2024-10-24T09:45:35+00:00","dateModified":"2024-11-12T07:10:13+00:00"},{"@type":"WebSite","@id":".\/\/#website","url":".\/\/","name":"KA Kustannus Analyysi Oy","inLanguage":"en-US","publisher":{"@id":".\/\/#organization"}}]}</script>
+		<script type="application/ld+json" class="aioseo-schema">{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":".\/\/yhteystiedot\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":".\/\/#listItem","position":1,"name":"Home","item":".\/\/","nextItem":".\/\/yhteystiedot\/#listItem"},{"@type":"ListItem","@id":".\/\/yhteystiedot\/#listItem","position":2,"name":"Ota yhteyttä ja säästä yrityksesi kustannuksissa","previousItem":".\/\/#listItem"}]},{"@type":"Organization","@id":".\/\/#organization","name":"KA Kustannus Analyysi Oy","description":"KA Kustannus Analyysi Oy on yksityinen puolueeton epäsuoriin hankintoihin erikoistunut yritys. Autamme hahmottamaan yritysten hankinnan nykytilan ja tunnistamaan isoimmat säästöpotentiaalit ja kehityskohteet.","url":".\/\/","logo":{"@type":"ImageObject","url":".\/\/wp-content\/uploads\/2024\/10\/Logo_RGB_2@3x.png","@id":".\/\/yhteystiedot\/#organizationLogo","width":963,"height":145},"image":{"@id":".\/\/yhteystiedot\/#organizationLogo"},"sameAs":["https:\/\/www.linkedin.com\/company\/ka-kustannus-analyysi-oy\/"]},{"@type":"WebPage","@id":".\/\/yhteystiedot\/#webpage","url":".\/\/yhteystiedot\/","name":"KA Kustannus Analyysi Oy - Ota yhteyttä ja säästä yrityksesi kustannuksissa","description":"KA Kustannus Analyysi Oy asiantuntijat ovat valmiina auttamaan sinua, joten ota yhteyttä ja aloitetaan yhteistyö, joka tuo konkreettisia tuloksia.","inLanguage":"en-US","isPartOf":{"@id":".\/\/#website"},"breadcrumb":{"@id":".\/\/yhteystiedot\/#breadcrumblist"},"datePublished":"2024-10-24T09:45:35+00:00","dateModified":"2024-11-15T10:37:35+00:00"},{"@type":"WebSite","@id":".\/\/#website","url":".\/\/","name":"KA Kustannus Analyysi Oy","inLanguage":"en-US","publisher":{"@id":".\/\/#organization"}}]}</script>
 		<!-- All in One SEO -->
 
 
@@ -147,10 +147,83 @@ border-color: #DA534F
         padding-bottom: 75%; /* Adjust the aspect ratio for smaller screens if needed */
     }
 }
+
+/* Container for columns in flex layout */
+.equal-height-blocks {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+/* Each column fills available height */
+.equal-height-blocks > .wp-block-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    align-items: stretch;
+    flex: 1 1 calc(100% / var(--num-columns)); /* Set to dynamically fit columns */
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+/* Force inner content to fill full height of the column */
+.equal-height-blocks > .wp-block-column > * {
+    flex-grow: 1; /* Forces inner content to stretch */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Responsive settings */
+@media (max-width: 768px) {
+    .equal-height-blocks {
+        flex-direction: column;
+    }
+    .equal-height-blocks > .wp-block-column {
+        flex: 1 1 auto; /* Resets flex behavior for mobile */
+    }
+}
+
+/* Container for columns in flex layout */
+.custom-height-blocks {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: stretch; /* Ensures all columns align to the tallest */
+}
+
+/* Each column fills available height */
+.custom-height-blocks > .wp-block-column {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    flex: 1 1 30%;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+/* Force inner content to fill full height of the column */
+.custom-height-blocks > .wp-block-column > * {
+    flex-grow: 1; /* Forces inner content to stretch */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* For smaller screens, stack the blocks vertically */
+@media (max-width: 768px) {
+    .custom-height-blocks {
+        flex-direction: column;
+    }
+    .custom-height-blocks > .wp-block-column {
+        flex: 1 1 auto; /* Resets flex behavior for mobile */
+    }
+}
+
 :root :where(.wp-block-navigation a:where(:not(.wp-element-button))){text-decoration: none;}
 :root :where(.wp-block-post-title a:where(:not(.wp-element-button))){text-decoration: none;}
 :root{--wp--preset--duotone--grayscale:url(#wp-duotone-grayscale);}</style>
-<style id="core-block-supports-inline-css">.wp-container-core-group-is-layout-1{flex-wrap:nowrap;}.wp-container-core-navigation-is-layout-1{gap:var(--wp--preset--spacing--60);justify-content:center;}.wp-container-core-group-is-layout-2{flex-wrap:nowrap;}.wp-container-core-group-is-layout-3{flex-wrap:nowrap;justify-content:space-between;}.wp-container-core-group-is-layout-5 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-6 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-6 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-6 > * + *{margin-block-start:8px;margin-block-end:0;}.wp-elements-6c597f3f7507a56ce2907e96efc73baf a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ti-fg);}.wp-container-core-column-is-layout-1 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-1 > * + *{margin-block-start:0;margin-block-end:0;}.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;}.wp-elements-c52b23194cd0dd1c9cea75b8fce1475d a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ti-fg);}.wp-elements-7de97b22248566c11a45479f7e09d071 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ti-fg);}.wp-container-core-group-is-layout-9{flex-wrap:nowrap;}.wp-elements-1293d2d2961c070eb0b3ca77940c5c19 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ti-fg);}.wp-container-core-group-is-layout-10{flex-wrap:nowrap;}.wp-container-core-group-is-layout-11 > .alignfull{margin-right:calc(24px * -1);margin-left:calc(24px * -1);}.wp-container-core-group-is-layout-11 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-11 > * + *{margin-block-start:16px;margin-block-end:0;}.wp-container-core-column-is-layout-2 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-2 > * + *{margin-block-start:0px;margin-block-end:0;}.wp-elements-b0b6b968e773e87d4690e491886ee41a a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ti-fg);}.wp-container-core-group-is-layout-12{flex-wrap:nowrap;}.wp-container-core-group-is-layout-13{flex-wrap:nowrap;}.wp-container-core-group-is-layout-14 > .alignfull{margin-right:calc(24px * -1);margin-left:calc(24px * -1);}.wp-container-core-group-is-layout-14 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-14 > * + *{margin-block-start:16px;margin-block-end:0;}.wp-container-core-group-is-layout-15 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left:0 !important;}.wp-elements-c3d57d05bd5253898ceb76f423a81698 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ti-fg);}.wp-container-core-group-is-layout-16{flex-wrap:nowrap;}.wp-container-core-group-is-layout-17{flex-wrap:nowrap;}.wp-container-core-group-is-layout-18 > .alignfull{margin-right:calc(24px * -1);margin-left:calc(24px * -1);}.wp-container-core-group-is-layout-18 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-18 > * + *{margin-block-start:16px;margin-block-end:0;}.wp-container-core-group-is-layout-19 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left:0 !important;}.wp-container-core-columns-is-layout-2{flex-wrap:nowrap;gap:32px 32px;}.wp-elements-70c51234bb1d721d82fbb723a4fa3d23 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ti-accent);}.wp-container-core-group-is-layout-20{gap:var(--wp--preset--spacing--20);flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-21{flex-wrap:nowrap;align-items:flex-start;}.wp-container-core-column-is-layout-5 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-5 > * + *{margin-block-start:0px;margin-block-end:0;}.wp-container-core-columns-is-layout-3{flex-wrap:nowrap;gap:32px 32px;}.wp-container-core-column-is-layout-6 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-6 > * + *{margin-block-start:0px;margin-block-end:0;}.wp-container-core-columns-is-layout-4{flex-wrap:nowrap;gap:32px 32px;}.wp-container-core-group-is-layout-22 > .alignfull{margin-left:calc(var(--wp--preset--spacing--50) * -1);}.wp-container-core-group-is-layout-24 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-24 > * + *{margin-block-start:40px;margin-block-end:0;}.wp-elements-8f3e88059cb333216290965fb6562cd6 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--white);}.wp-container-core-navigation-is-layout-2{flex-wrap:nowrap;gap:8px;flex-direction:column;align-items:center;}.wp-container-core-group-is-layout-25{gap:8px;flex-direction:column;align-items:center;}.wp-container-core-columns-is-layout-5{flex-wrap:nowrap;}.wp-container-core-group-is-layout-26{gap:var(--wp--preset--spacing--30);flex-direction:column;align-items:stretch;justify-content:center;}.wp-duotone-grayscale.wp-block-cover > .wp-block-cover__image-background, .wp-duotone-grayscale.wp-block-cover > .wp-block-cover__video-background{filter:var(--wp--preset--duotone--grayscale);}.wp-duotone-grayscale.wp-block-image img, .wp-duotone-grayscale.wp-block-image .components-placeholder{filter:var(--wp--preset--duotone--grayscale);}</style>
+<style id="core-block-supports-inline-css">.wp-container-core-group-is-layout-1{flex-wrap:nowrap;}.wp-container-core-navigation-is-layout-1{gap:var(--wp--preset--spacing--60);justify-content:center;}.wp-container-core-group-is-layout-2{flex-wrap:nowrap;}.wp-container-core-group-is-layout-3{flex-wrap:nowrap;justify-content:space-between;}.wp-container-core-group-is-layout-5 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-6 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-6 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-6 > * + *{margin-block-start:8px;margin-block-end:0;}.wp-elements-c0200d520d069dee4213849dc6909438 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ti-accent);}.wp-container-core-column-is-layout-1 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-1 > * + *{margin-block-start:0;margin-block-end:0;}.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;}.wp-elements-c52b23194cd0dd1c9cea75b8fce1475d a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ti-fg);}.wp-elements-7de97b22248566c11a45479f7e09d071 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ti-fg);}.wp-container-core-group-is-layout-9{flex-wrap:nowrap;}.wp-elements-1293d2d2961c070eb0b3ca77940c5c19 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ti-fg);}.wp-container-core-group-is-layout-10{flex-wrap:nowrap;}.wp-container-core-group-is-layout-11 > .alignfull{margin-right:calc(24px * -1);margin-left:calc(24px * -1);}.wp-container-core-group-is-layout-11 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-11 > * + *{margin-block-start:16px;margin-block-end:0;}.wp-container-core-column-is-layout-2 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-2 > * + *{margin-block-start:0px;margin-block-end:0;}.wp-elements-b0b6b968e773e87d4690e491886ee41a a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ti-fg);}.wp-container-core-group-is-layout-12{flex-wrap:nowrap;}.wp-container-core-group-is-layout-13{flex-wrap:nowrap;}.wp-container-core-group-is-layout-14 > .alignfull{margin-right:calc(24px * -1);margin-left:calc(24px * -1);}.wp-container-core-group-is-layout-14 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-14 > * + *{margin-block-start:16px;margin-block-end:0;}.wp-container-core-group-is-layout-15 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left:0 !important;}.wp-elements-c3d57d05bd5253898ceb76f423a81698 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ti-fg);}.wp-container-core-group-is-layout-16{flex-wrap:nowrap;}.wp-container-core-group-is-layout-17{flex-wrap:nowrap;}.wp-container-core-group-is-layout-18 > .alignfull{margin-right:calc(24px * -1);margin-left:calc(24px * -1);}.wp-container-core-group-is-layout-18 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-18 > * + *{margin-block-start:16px;margin-block-end:0;}.wp-container-core-group-is-layout-19 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left:0 !important;}.wp-container-core-columns-is-layout-2{flex-wrap:nowrap;gap:32px 32px;}.wp-elements-70c51234bb1d721d82fbb723a4fa3d23 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ti-accent);}.wp-container-core-group-is-layout-20{gap:var(--wp--preset--spacing--20);flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-21{flex-wrap:nowrap;align-items:flex-start;}.wp-container-core-column-is-layout-5 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-5 > * + *{margin-block-start:0px;margin-block-end:0;}.wp-container-core-columns-is-layout-3{flex-wrap:nowrap;gap:32px 32px;}.wp-container-core-column-is-layout-6 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-6 > * + *{margin-block-start:0px;margin-block-end:0;}.wp-container-core-columns-is-layout-4{flex-wrap:nowrap;gap:32px 32px;}.wp-container-core-group-is-layout-22 > .alignfull{margin-left:calc(var(--wp--preset--spacing--50) * -1);}.wp-container-core-group-is-layout-24 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-24 > * + *{margin-block-start:40px;margin-block-end:0;}.wp-elements-8f3e88059cb333216290965fb6562cd6 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--white);}.wp-container-core-navigation-is-layout-2{flex-wrap:nowrap;gap:8px;flex-direction:column;align-items:center;}.wp-container-core-group-is-layout-25{gap:8px;flex-direction:column;align-items:center;}.wp-container-core-columns-is-layout-5{flex-wrap:nowrap;}.wp-container-core-group-is-layout-26{gap:var(--wp--preset--spacing--30);flex-direction:column;align-items:stretch;justify-content:center;}.wp-duotone-grayscale.wp-block-cover > .wp-block-cover__image-background, .wp-duotone-grayscale.wp-block-cover > .wp-block-cover__video-background{filter:var(--wp--preset--duotone--grayscale);}.wp-duotone-grayscale.wp-block-image img, .wp-duotone-grayscale.wp-block-image .components-placeholder{filter:var(--wp--preset--duotone--grayscale);}</style>
 <style id="wp-block-template-skip-link-inline-css">.skip-link.screen-reader-text {
 			border: 0;
 			clip: rect(1px,1px,1px,1px);
@@ -272,7 +345,7 @@ border-color: #DA534F
 
 
 
-<p class="has-text-align-center highlight-red has-ti-fg-color has-text-color has-link-color wp-elements-6c597f3f7507a56ce2907e96efc73baf">Voit ottaa yhteyttä <strong><span class="highlight-red">(09) 394 854 </span></strong><span class="highlight-red">/</span><strong><span class="highlight-red"> info(at)kustannusanalyysi.fi</span></strong><br> tai suoraan osakkaidemme yhteystietojen kautta.</p>
+<p class="has-text-align-center highlight-red has-ti-fg-color has-text-color has-link-color wp-elements-c0200d520d069dee4213849dc6909438">Voit ottaa yhteyttä <strong><span class="highlight-red">(09) 394 854 </span></strong><span class="highlight-red">/</span><strong><span class="highlight-red"> info(at)kustannusanalyysi.fi</span></strong><br> tai suoraan osakkaidemme yhteystietojen kautta.</p>
 </div>
 </div>
 </div>

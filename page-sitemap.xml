@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on November 14, 2024 at 10:02 am by All in One SEO v4.7.3.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on November 15, 2024 at 10:38 am by All in One SEO v4.7.3.1 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="./default-sitemap.xsl?sitemap=page"?>
 <urlset
@@ -7,6 +7,96 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[./yhteystiedot/]]>/index.html</loc>
+		<lastmod><![CDATA[2024-11-15T10:37:35+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/Janne-profiili_2-1.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/email_punainen@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/puhelinnumero_punainen@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/1715330409453.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/1703164056989.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/osoite_punainen@3x.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./palvelut/]]>/index.html</loc>
+		<lastmod><![CDATA[2024-11-15T10:36:55+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/kilpailu_punainen_aariviivat@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/nuoli_punainen.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/target_punainen_viiva@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/omistajuus_punainen_viiva@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/kategoria_punainen_viiva@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/toteutus_punainen_viiva@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/Tietokone_punainen_aariviivat@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/lentokone_valkoinen@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/Tulostin_valkoinen@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/kiinteisto_valkoinen@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/11/Varasto_valkoinen@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/rekka_valkoinen@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/varaosat_valkoinen@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/puhelin_valkoinen@3x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/Asiakaspalvelu@3x.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[./yritys/]]>/index.html</loc>
+		<lastmod><![CDATA[2024-11-14T16:45:09+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/11/business-8676516_1922.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/11/forest-1866837_1280.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/11/KA-puhelin-4.jpg]]></image:loc>
+		</image:image>
+	</url>
 	<url>
 		<loc><![CDATA[./ka-paras-palvelu/]]>/index.html</loc>
 		<lastmod><![CDATA[2024-11-14T10:01:21+00:00]]></lastmod>
@@ -47,102 +137,6 @@
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://www.hyvaep.fi/uploads/2022/09/hyvaep.svg]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[./yritys/]]>/index.html</loc>
-		<lastmod><![CDATA[2024-11-14T09:58:19+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/11/business-8676516_1922.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/11/forest-1866837_1280.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/11/KA-puhelin-4.jpg]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[./yhteystiedot/]]>/index.html</loc>
-		<lastmod><![CDATA[2024-11-12T07:10:13+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Janne-profiili_2-1.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/email_punainen@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/puhelinnumero_punainen@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/1715330409453.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/1703164056989.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/osoite_punainen@3x.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[./palvelut/]]>/index.html</loc>
-		<lastmod><![CDATA[2024-11-12T07:05:15+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/kilpailu_punainen_aariviivat@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/nuoli_punainen.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/target_punainen_viiva@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/omistajuus_punainen_viiva@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/kategoria_punainen_viiva@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/toteutus_punainen_viiva@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Tietokone_punainen_aariviivat@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/niitin_valkoinen@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/lentokone_valkoinen@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Tulostin_valkoinen@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/kiinteisto_valkoinen@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/rekka_valkoinen@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/varaosat_valkoinen@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/puhelin_valkoinen@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/Asiakaspalvelu@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/koulutus_valkoinen@3x.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2024/10/auditointi_valkoinen@3x.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>

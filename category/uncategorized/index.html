@@ -135,6 +135,79 @@ border-color: #DA534F
         padding-bottom: 75%; /* Adjust the aspect ratio for smaller screens if needed */
     }
 }
+
+/* Container for columns in flex layout */
+.equal-height-blocks {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+/* Each column fills available height */
+.equal-height-blocks > .wp-block-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    align-items: stretch;
+    flex: 1 1 calc(100% / var(--num-columns)); /* Set to dynamically fit columns */
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+/* Force inner content to fill full height of the column */
+.equal-height-blocks > .wp-block-column > * {
+    flex-grow: 1; /* Forces inner content to stretch */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Responsive settings */
+@media (max-width: 768px) {
+    .equal-height-blocks {
+        flex-direction: column;
+    }
+    .equal-height-blocks > .wp-block-column {
+        flex: 1 1 auto; /* Resets flex behavior for mobile */
+    }
+}
+
+/* Container for columns in flex layout */
+.custom-height-blocks {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: stretch; /* Ensures all columns align to the tallest */
+}
+
+/* Each column fills available height */
+.custom-height-blocks > .wp-block-column {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    flex: 1 1 30%;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+/* Force inner content to fill full height of the column */
+.custom-height-blocks > .wp-block-column > * {
+    flex-grow: 1; /* Forces inner content to stretch */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* For smaller screens, stack the blocks vertically */
+@media (max-width: 768px) {
+    .custom-height-blocks {
+        flex-direction: column;
+    }
+    .custom-height-blocks > .wp-block-column {
+        flex: 1 1 auto; /* Resets flex behavior for mobile */
+    }
+}
+
 :root :where(.wp-block-navigation a:where(:not(.wp-element-button))){text-decoration: none;}
 :root :where(.wp-block-post-title a:where(:not(.wp-element-button))){text-decoration: none;}
 :root :where(.wp-block-search){border-radius: 5px;}</style>
